@@ -11,6 +11,7 @@ public class Main {
         c=sc.nextInt();
         max=a;
 
+
         if (b > max) {
             max=b;
         }
